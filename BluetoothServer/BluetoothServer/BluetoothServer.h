@@ -5,7 +5,7 @@
 #include <strsafe.h>
 #include <initguid.h>
 
-#define DEVICE_ADDR 0x34415DEF5BAE
+#define DEVICE_ADDR //device address
 #define ADDR_LEN 17
 #define SUCCESS 1
 #define ERROR 0
